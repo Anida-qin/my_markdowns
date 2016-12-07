@@ -1,6 +1,8 @@
 # Deep reinforcement learning lecture-1 notes
 Author: ligh
+
 Email: lightaime@gmail.com
+
 Github: https://github.com/lightaime
 ## materials
 * 1. Prof. Rich Sutton, Introduction to Reinforcement Learning with Function Approximation; [Video](https://www.youtube.com/watch?v=Fsh1qMTg1xI), [Slides](http://media.nips.cc/Conferences/2015/tutorialslides/SuttonIntroRL-nips-2015-tutorial.pdf)
